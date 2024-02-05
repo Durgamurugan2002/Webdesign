@@ -1,0 +1,11 @@
+1.<b>,<i>,<u>,<strong>,<sub>,<sup>,<div>,<p>,<span>,<del>,<br>,<hr>,<em>.
+2. <meta charset="UTF-8"> using meta tag.
+3. cellspacing is space between the cells, cellpadding is space inside cells.
+4. yes, possible
+5. using the colspan & rowspan.
+6.  ----
+7.To specify the link in html using <a> TAG, target attribute is used to specifies where the 
+linked document will open ,when click the link. there are four attributes blank,self,top,parent.
+8.link tag is used to link a code page like stylesheets, <a> tag is used to link a webpages & websites.
+9. Using <script> tag - <script type=text/javascript>.
+10. form element are <input>,<label>,<select>,<textarea>,<button>, To create a form in html use <form> tag.
